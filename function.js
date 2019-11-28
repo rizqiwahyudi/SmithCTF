@@ -11,7 +11,7 @@ function chall(){
 };
 
 function profile(){
-	document.getElementById("roll").innerHTML = '<div class="jumbotron bg-dark text-white"><div class="container text-center"><h1>SumekarID.CTF</h1><h2>1<small> place</small></h2><h2>250<small> points</small></h2></div></div><div class="container"><div class="row"><div class="col-md-12"><h3>Solves</h3><table class="table table-striped table-hover"><thead><tr><td><b>Challenge</b></td><td class="d-none d-md-block d-lg-block"><b>Category</b></td><td><b>Value</b></td><td><b>Time</b></td></tr></thead><tbody><tr><td>KUE bolu !</td><td class="d-none d-md-block d-lg-block">Web Hacking</td><td>100</td><td>5 Hours ago</td></tr><tr><td>GET ME !</td><td class="d-none d-md-block d-lg-block">Web Hacking</td><td>100</td><td>5 Hours ago</td></tr></tbody></table></div></div></div>'
+	document.getElementById("roll").innerHTML = '<div class="jumbotron bg-dark text-white"><div class="container text-center"><h1>SumekarID.CTF</h1><h2>1<small> place</small></h2><h2>250<small> points</small></h2></div></div><div class="container"><div class="row"><div class="col-md-12"><h3>Solves</h3><table class="table table-striped table-hover"><thead><tr><td><b>Challenge</b></td><td class="d-none d-md-block d-lg-block"><b>Category</b></td><td><b>Value</b></td><td><b>Time</b></td></tr></thead><tbody><tr><td>KUE bolu !</td><td class="d-none d-md-block d-lg-block">Web Hacking</td><td>100</td><td>5 Hours ago</td></tr><tr><td>URL n CODE</td><td class="d-none d-md-block d-lg-block">Web Hacking</td><td>100</td><td>5 Hours ago</td></tr></tbody></table></div></div></div>'
 }
 
 function login(){
